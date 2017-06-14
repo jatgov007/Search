@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 18, 2017, 4:53:49 PM
+    Author     : JATIN
+*/
+body
+{
+  color:#453624;
+  background-color: #C0C0C0;
+  font-family: 'Kadwa', serif;
+}
+h1
+{
+  font-size:50px;
+}
+.list-group-item
+{
+
+  border:thin;
+  
+  padding: 8px;
+  margin:10px;
+  background-color:white;
+  
+  box-shadow: 10px 10px 5px black;
+ 
+
+}
+.list-group-item:hover
+{
+border-left: ridge;
+  border-left-color: gold;
+  border-left-width: 20px;
+}
+
